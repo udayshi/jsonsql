@@ -4,7 +4,7 @@ Access JSON via sql like syntax. This is my real timesaver
 
 ## install
 ```
-$npm install jsonsql
+$npm install easyjsonsql
 ```
 #### Available method on select
 min,max,avg,count
