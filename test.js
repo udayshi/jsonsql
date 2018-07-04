@@ -1,4 +1,4 @@
-let JSONSql=require('./JSONSql');
+let JSONSql=require('./index');
 let data=[ {name:'A C' ,age:30,location:'London',dob:'1930-01-25',info:{married:'Y','total_child':2}},
             {name:'A C' ,age:35,location:'London',dob:'1930-01-26',info:{married:'N','total_child':3}},
             {name:'A B' ,age:36,location:'London',dob:'1930-01-27',info:{married:'Y','total_child':4}},
