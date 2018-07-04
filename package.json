@@ -1,6 +1,6 @@
 {
   "name": "easyjsonsql",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -14,7 +14,7 @@
     'json',
     'sql',
     'api',
-    'json api'
+    'json api',
     'json sql',
     'data structure',
     'easy json',
