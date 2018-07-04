@@ -26,7 +26,7 @@
     'count dataset',
     'json as sql'
   ],
-  "author": "",
+  "author": "Uday Shiwakoti",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/udayshi/jsonsql/issues"
