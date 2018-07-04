@@ -1,6 +1,6 @@
 {
   "name": "easyjsonsql",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,22 @@
     "type": "git",
     "url": "git+https://github.com/udayshi/jsonsql.git"
   },
-  "keywords": [],
+  "keywords": [
+    'json',
+    'sql',
+    'api',
+    'json api'
+    'json sql',
+    'data structure',
+    'easy json',
+    'schema',
+    'jsonschema',
+    'json filter',
+    'group data',
+    'order dataset',
+    'count dataset',
+    'json as sql'
+  ],
   "author": "",
   "license": "ISC",
   "bugs": {

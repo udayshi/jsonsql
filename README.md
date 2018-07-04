@@ -40,7 +40,7 @@ let data=[ {name:'A C' ,age:30,location:'London',dob:'1930-01-25',info:{married:
 
 * Include the module
 ```
-let JSONSql=require('./JSONSql');
+let JSONSql=require('easyjsonsql');
 let objUtil=new JSONSql();
 ```
 
