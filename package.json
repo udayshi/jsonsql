@@ -1,7 +1,7 @@
 {
   "name": "easyjsonsql",
   "version": "1.0.1",
-  "description": "",
+  "description": "Access JSON via sql like syntax. This is my real timesaver when I am building reporting SPA application.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -24,7 +24,7 @@
    "group data",
    "order dataset",
    "count dataset",
-    "json as sql",
+    "json as sql"
   ],
   "author": "Uday Shiwakoti",
   "license": "ISC",
