@@ -45,9 +45,8 @@ let objUtil=new JSONSql();
 ```
 
  
- ####  Query Sample select with where and order by 
- On this sample we select the column and filter by using where and
-  order by field [asc|desc]
+####  Query Sample select with where and order by 
+On this sample we select the column and filter by using where and order by field [asc|desc]
  
 ```  
  let search_data=objUtil.select('name,location as ln,dob,info.married')
