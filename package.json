@@ -1,6 +1,6 @@
 {
-  "name": "easyjsonsql",
-  "version": "1.0.10",
+  "name": "json-sql-tool",
+  "version": "1.0.0",
   "description": "Access JSON via sql like syntax. Easy to use JSON datasets from SQL query.",
   "main": "index.js",
   "scripts": {
@@ -13,6 +13,8 @@
   "keywords": [
     "json as sql",
     "jsql",
+    "json sql",
+    "json sql tool",
     "object",
     "collections",
     "jssql",
@@ -34,7 +36,7 @@
     "column",
     "graphql",
     "json api",
-    "json sql",
+
     "data structure",
     "easy json",
     "schema",
