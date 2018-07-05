@@ -1,6 +1,6 @@
 {
   "name": "json-sql-tool",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Access JSON via sql like syntax. Easy to use JSON datasets from SQL query.",
   "main": "index.js",
   "scripts": {
