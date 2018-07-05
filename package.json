@@ -1,6 +1,6 @@
 {
   "name": "easyjsonsql",
-  "version": "1.0.9",
+  "version": "1.0.10",
   "description": "Access JSON via sql like syntax. Easy to use JSON datasets from SQL query.",
   "main": "index.js",
   "scripts": {
