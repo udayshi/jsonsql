@@ -25,15 +25,16 @@ console.log('=============');
  .from(data)
  .where('info.married','=','Y')
  .where('location','like','london')
+ .orderby('name asc')
  .fetch();
  console.log(search_data);
 
 
 console.log('=============');
-search_data=objUtil.select('name,count(name) as cnt_name,avg(age) as avg_age')
+search_data=objUtil.select('name,count(name) as cnt_name,avg(age) as avg_age,min(age),max(age)')
     .from(data)
     .having('cnt_name','>','2')
-    .having('avg_age','>','15')
+    .orderby('min_age desc')
     .fetch();
 console.log(search_data);
 
