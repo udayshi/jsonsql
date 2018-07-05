@@ -1,6 +1,6 @@
 {
   "name": "easyjsonsql",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "Access JSON via sql like syntax. This is my real timesaver when I am building reporting SPA application.",
   "main": "index.js",
   "scripts": {
