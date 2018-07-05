@@ -6,11 +6,11 @@ Access JSON via sql like syntax. This is my real timesaver
 ```
 $npm install easyjsonsql
 ```
-#### Available method on select
-min,max,avg,count
+#### Available method on select aggregation
+min,max,avg,count,sum
 
 #### Available operator on where
->, < ,>= ,<= ,like
+like, > , < ,>= ,<= 
 
 #### Having clause
 having use alias on min,max,avg,count and operater availables are >, < ,>= ,<=  
