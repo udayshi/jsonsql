@@ -4,7 +4,7 @@ Access JSON via sql like syntax. This is my real timesaver
 
 ## install
 ```
-$npm install json-sql-tool
+$npm install easyjsonsql
 ```
 #### Available method on select aggregation
 min,max,avg,count,sum
@@ -40,7 +40,7 @@ let data=[ {name:'A C' ,age:30,location:'London',dob:'1930-01-25',info:{married:
 
 * Include the module
 ```
-let JSONSql=require('json-sql-tool');
+let JSONSql=require('easyjsonsql');
 let objUtil=new JSONSql();
 ```
 
